@@ -1,0 +1,51 @@
+h1 {
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+img {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 3px;
+    width: 200px;
+	display: block;
+    margin: 0 auto;
+	border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+	
+	float: center;
+
+	
+	
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+.paragraph {
+    position: center;
+    left: 400px;
+    background-color:pink;
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: 'Sacramento', cursive;
+}
+.material-icons {
+	
+	
+	color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 50px;
+    overflow: hidden;
+	word-spacing: 300px;
+}

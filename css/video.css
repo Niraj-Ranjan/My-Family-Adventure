@@ -1,0 +1,43 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-family: 'Baloo', cursive;
+	padding-top:50px;
+}
+h2{
+	font-family: 'Metamorphous', cursive;
+	padding-top:40px;
+}
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 50px;
+    overflow: hidden;
+	word-spacing: 300px;
+    
+}
+.a {
+	padding-left:350px;
+}
+
+
+
+.main {
+	min-height:400px;
+	background-color:#f2ffcc;
+	width: 700px;
+	text-align:center;
+}
+
+.b {
+	background-color:#ffccf2;
+	padding-top:10px;
+	font-family: 'Baloo', cursive;
+	color: yellow;
+	
+}
+
+.c {
+	padding-left:15px;
+	padding-right:15px;
+}

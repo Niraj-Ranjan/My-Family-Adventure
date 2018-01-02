@@ -1,0 +1,182 @@
+.icon {
+	position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+}
+
+
+div.img {
+    margin: 50px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+	opacity: 5.5;
+	filter: alpha(opacity=50);
+	border-radius: 100%;
+	
+  background-color: pink;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+
+}
+
+div.img:hover {
+    border: 1px solid #777;
+	opacity: 1.5;
+	border-radius: 100%;
+	
+}
+
+div.img img {
+    width: 100%;
+	opacity: 1.5;
+	border-radius: 100%;
+   
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+	opacity: 5.5; 
+	font-family: 'Indie Flower', cursive;
+}
+
+.material-icons {
+	
+	
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: lightblue;
+	padding-left: 10px;
+}
+
+h1 {
+    
+    
+	padding-bottom: auto;
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+	text-shadow: 2px 2px 5px red;
+	
+	
+}
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 50px;
+    overflow: hidden;
+	word-spacing: 200px;
+    
+}
+
+li {
+    float: left;
+	font-size: 50px;
+	font-family: 'Sansita', sans-serif;
+	word-spacing: 5.5em;
+	
+	padding-left: 180px
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: pink;
+}
+p {
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+	padding-right: 180px;
+	padding-left: 180px;
+	color: red;
+	text-shadow: 0 0 3px #FF0000;
+}
+
+p1 {
+    float: left;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+	font-size: 35px;
+	font-family: 'Pangolin';
+	background-color: white;
+}
+.photo {
+	padding-right: 280px;
+	padding-left: 280px;
+}
+
+.first {
+	background-color: pink;
+}
+.menu {
+	font-size: 20px;
+	font-family: 'Sansita', sans-serif;
+	padding-right: 240px;
+	line-height:2.7em; 
+}
+.list {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Supermercado One', cursive;
+	text-shadow: 2px 2px;
+	
+}
+h4 {
+	padding-bottom: 2px;
+	padding-right: 5px;
+	float: right;
+	font-family: red;
+	text-align: center;
+	
+	
+}
+
